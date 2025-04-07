@@ -1,0 +1,9 @@
+.cardd{
+    width: 30%;
+    height: 300px;
+    padding: 70px 20px;
+    margin-bottom: 40px;
+    /* background-color: blueviolet; */
+    text-align: center;
+    font-size: 40px;
+}

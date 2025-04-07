@@ -1,0 +1,13 @@
+.formlogin{
+    width: 50%;
+    background-color: white;
+    box-shadow: 5px 5px 5px rgb(125, 124, 124),-5px -5px 5px rgb(125, 124, 124);
+    padding: 20px;
+    margin: 175px auto;
+    color: white;
+}
+.headLogin{
+    padding-top: 100px;
+    text-align: center;
+    font-size: 60px;
+}

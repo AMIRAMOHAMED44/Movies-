@@ -1,0 +1,13 @@
+.formReg{
+    width: 50%;
+    background-color: white;
+    box-shadow: 5px 5px 5px rgb(125, 124, 124),-5px -5px 5px rgb(125, 124, 124);
+    padding: 20px;
+    margin: 75px auto;
+    color: white;
+}
+.headReg{
+    padding-top: 20px;
+    text-align: center;
+    font-size: 60px;
+}
